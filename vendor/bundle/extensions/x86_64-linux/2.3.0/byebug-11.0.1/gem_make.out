@@ -1,0 +1,19 @@
+current directory: /home/mtfe/Development/__Rails/D3Test/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/usr/bin/ruby2.3 -r ./siteconf20190527-29218-7ou2t.rb extconf.rb
+creating Makefile
+
+current directory: /home/mtfe/Development/__Rails/D3Test/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/mtfe/Development/__Rails/D3Test/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/mtfe/Development/__Rails/D3Test/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20190527-29218-1q0gk56/byebug
